@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dabaoceshi.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>97501E2C92B1E4826C6CFA3E60C62BDF367960E9</string>
+				<key>dateExpires</key>
+				<string>2021/5/6</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>77RUMQS5JP.com.dabaoceshiyun</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>77RUMQS5JP</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>77RUMQS5JP.com.dabaoceshiyun</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>dabaoceshi.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2792aa59-f796-4241-94d8-7dd4f648d106</string>
+				<key>name</key>
+				<string>dabaocehsi_dis_inhouse</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>77RUMQS5JP</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
